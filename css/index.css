@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(to bottom right, rgb(58, 210, 236), rgb(218, 218, 78));
+}
+h1 {
+  margin-left: 20px;
+  color: rgb(5, 5, 100);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    text-align: center;
+  }
+  
+  footer{
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(10, 6, 6);
+  }
+  /* footer > a {
+    padding: 20px;
+  
+  } */
